@@ -3,25 +3,23 @@
 > Fecha: 17/02/2026
 > Tema: Introducción
 
-## Descripción
-
 ## Notas
 
 Nick Bostrom - Superintelligence 
 
-**Modelos para generaciones**
+### Modelos para generaciones
 
-Kling
-Nano Banana (Google)
-Veo3 (Google)
-Seedance 2.0 (Tiktok)
+* Kling
+* Nano Banana (Google)
+* Veo3 (Google)
+* Seedance 2.0 (Tiktok)
 
-**Apps recomendadas**
+### Apps recomendadas
 
-Higgsfield
-Freepik
+* Higgsfield
+* Freepik
 
-**Plataformas Node-Based**
+### Plataformas Node-Based
 
 - Reutilización de recursos
 - Flujos Visuales claro
@@ -33,7 +31,7 @@ Freepik
 
 Las plataformas node-based permiten construir flujos de trabajo visuales conectando nodos, donde cada nodo representa una operación o herramienta de IA. En lugar de escribir código, se arrastran y conectan bloques que procesan texto, imágenes o video en secuencia. Esto facilita automatizar pipelines de generación complejos y reutilizarlos con distintos inputs sin reconfigurar todo desde cero.
 
-**Prompts en formato JSON**
+### Prompts en formato JSON
 
 ```json
 {
@@ -66,7 +64,7 @@ Gemini - GEMS - Módulos de memoria creativa
 
 Los GEMS son asistentes personalizados dentro de Gemini a los que se les puede configurar un comportamiento fijo, como si se les asignara un "rol permanente". Sirven para reutilizar contexto creativo sin tener que repetir las instrucciones cada vez.
 
-**Ejemplo de configuración de un GEM para generación de videos:**
+### Ejemplo de configuración de un GEM para generación de videos
 
 ```
 Eres un director creativo especializado en generación de videos con IA.
