@@ -1,4 +1,4 @@
-# m3-ia-video-generator
+# MAG3-curso-ia
 
 Repositorio de apuntes y notas del curso de generación de videos con Inteligencia Artificial de [MAG3](https://www.instagram.com/mag3.gg/). Aquí se documentan los conceptos, herramientas y ejercicios prácticos vistos en cada clase.
 
