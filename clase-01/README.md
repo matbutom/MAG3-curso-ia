@@ -90,3 +90,5 @@ Mantén un tono profesional pero directo. Prioriza la coherencia visual y la reu
 - [Gemini GEMS](https://gemini.google/es/overview/gems/?hl=es)
 - [Why JSON Prompts Make AI More Reliable - Medium](https://medium.com/coding-nexus/why-json-prompts-make-ai-more-reliable-with-code-real-examples-edf439999ce7)
 - [Genie - Google DeepMind](https://deepmind.google/models/genie/)
+- [Comfyui - Generativo de forma local](https://www.comfy.org/)
+- [LTX Studio - Video production AI](https://ltx.studio/)
